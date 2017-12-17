@@ -6543,6 +6543,9 @@ cntLootCrateBlueprintMedium,blocks,Block,KgNone,Schematic Crate (Medium),,,,
 cntShippingCrateBlueprintLarge,blocks,Block,KgNone,Schematic Crate (Large),,,,
 cntShippingCrateBlueprintLargeDesc,blocks,Block,KgNone,"Place on ground and break open to loot.  Contains 5 or 6 Schematics.  [ Crafted at Blueprint Workstation ]",,,,
 cntLootCrateBlueprintLarge,blocks,Block,KgNone,Schematic Crate (Large),,,,
-
+survivorBackpack01,blocks,Block,KgNone,Survivor Backpack,,,,
+banditBackpack01,blocks,Block,KgNone,Bandit Backpack,,,,
+ClassProtectionVendingMachine,blocks,Block,KgNone,Protection Class Vending Machine,,,,
+StorageChestSecureDesc,blocks,Block,"A standard size Storage Container that can be locked",,,,
 
 
