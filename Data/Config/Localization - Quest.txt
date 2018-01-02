@@ -381,6 +381,7 @@ tutorialTipQuest02,,Popup Tip,KgNone,"Starter Quest Line has been shortened.  If
 quest_LocateTrader,,Quest Info,KgNone,Locate a Trader,,,,
 quest_LocateTrader_subtitle,,Quest Info,KgNone,Visit a Local Trader,,,,
 quest_LocateTrader_description,,Quest Info,KgNone,See on map to find a Trader Location.  Completes on finish,,,,
+quest_LocateTrader_offer,,Quest Info,KgNone,Accept Quest to find a Trader near you!,,,,
 requirementGroupBow,,Requirement Group,KgNone,Holding any Bow Type Weapon,,,,
 requirementGroupPistol,,Requirement Group,KgNone,Holding any Pistol Type Gun,,,,
 requirementGroupRifle,,Requirement Group,KgNone,Holding any Rifle Type Gun,,,,
