@@ -385,7 +385,7 @@ graveStone05,blocks,Block,KgNone,Grave Stone05,Pierre tombale 05,Grabstein 05,,L
 graveStone06,blocks,Block,KgNone,Grave Stone06,Pierre tombale 06,Grabstein 06,,Lápida 06
 graveStone07,blocks,Block,KgNone,Grave Stone07,Pierre tombale 07,Grabstein 07,,Lápida 07
 graveStone08,blocks,Block,KgNone,Grave Stone08,Pierre tombale 08,Grabstein 08,,Lápida 08
-hangingMoss,blocks,Block,KgNone,Hanging Moss,Mousse grimpante,Hängendes Moos,,Musgo colgante
+hangingMoss,blocks,Block,KgNone,Moss,Mousse grimpante,Hängendes Moos,,Musgo colgante
 hayBaleBlock,blocks,Block,KgNone,Hay Bale,Botte de foin,Heuballen,,Fardo de heno
 hayBaleBlockDesc,blocks,Block,KgNone,Hay bales let you land safely and without breaking any important bones in your body.,"Les bottes de foin amortissent vos chutes, vous évitant ainsi de vous casser un os important.","Auf Heuballen kannst du sicher landen, ohne dir dabei wichtige Knochen zu brechen.",,Los fardos de heno te permiten aterrizar de manera segura y sin romperte ningún hueso importante del cuerpo.
 houseFrontDoor1_v1,blocks,Block,KgNone,House Front Door 1,Porte d'entrée de maison 1,Hauseingangstür 1,,Puerta principal de la casa 1
@@ -1683,7 +1683,7 @@ clubBarbedDesc,items,Melee,KgNone,A club with barbs. Added chance for bleeding.,
 clubIron,items,Melee,KgNone,Iron Reinforced Club,Massue renforcée avec du fer,Eisenverstärkter Knüppel,,Garrote reforzado con hierro
 clubIronDesc,items,Melee,KgNone,"Like a wooden club, but more durable and does more damage.","Semblable à la massue en bois, mais plus résistante et inflige plus de dégâts.","Wie ein Holzknüppel, aber widerstandsfähiger. Verursacht auch mehr Schaden.",,"Como un garrote de madera, pero con el doble de durabilidad y hace más daño."
 clubSpiked,items,Melee,KgNone,Spiked Club,Massue à pointes,Gespickter Knüppel,,Lucero del alba
-clubSpikedDesc,items,Melee,KgNone,A badass club with sharp spikes. Added chance for bleeding.\n [ Crafted in Advanced Tool Workbench. ],Une massue trop cool hérissée de pointes coupantes. Augmente les chances d'infliger une hémorragie.,Ein cooler Knüppel mit scharfen Nägeln. Erhöhte Chance auf Blutungen.,,Una intimidante garrote con clavos afilados. Posibilidad adicional de hemorragia.
+clubSpikedDesc,items,Melee,KgNone,A badass club with sharp spikes. Added chance for bleeding.\n [ Crafted in Workbench. ],Une massue trop cool hérissée de pointes coupantes. Augmente les chances d'infliger une hémorragie.,Ein cooler Knüppel mit scharfen Nägeln. Erhöhte Chance auf Blutungen.,,Una intimidante garrote con clavos afilados. Posibilidad adicional de hemorragia.
 clubWood,items,Melee,KgNone,Wooden Club,Massue en bois,Holzknüppel,,Garrote de madera
 clubWoodDesc,items,Melee,KgNone,A wooden club. Good for breaking knees and skulls.,Une massue en bois. Parfaite pour briser des genoux et défoncer des crânes.,"Ein Holzknüppel. Eignet sich dazu, Kniescheiben und Schädel zu brechen.",,Un garrote de madera. Genial para romper rodillas y cabezas.
 huntingKnife,items,Melee,KgNone,Hunting Knife,Couteau de chasse,Jagdmesser,,Cuchillo de caza
@@ -1792,7 +1792,7 @@ stoneShovelDesc,items,Tool,KgNone,"The stone shovel is a primitive tool useful f
 tazasStoneaxe,items,Tool,KgNone,Taza's Stone Axe,Hache de pierre de Taza,Tazas Steinaxt,,Hacha de piedra de Taza
 tazasStoneaxeDesc,items,Tool,KgNone,"Taza's stone axe is a rare, powerful, ancient Indian artifact. The Apache believed those who wielded it were invincible in battle.",La hache de pierre de Taza est un artefact indien rare et puissant. Les Apaches croyaient que ceux qui brandissaient cette arme devenaient invulnérables lors des batailles.,"Tazas Steinaxt ist ein seltenes und mächtiges Artefakt der Indianer. Die Apachen glaubten, dass der Träger dieser Axt im Kampf unbesiegbar ist.",,El hacha de piedra de Taza es un extraño y poderoso artefacto de los antiguos indios. Los apaches creían que aquel que la empuñase sería invencible en la batalla.
 wrench,items,Tool,KgNone,Wrench,Clé à molette,Schraubenschlüssel,,Llave inglesa
-wrenchDesc,items,Tool,KgNone,"Great for disassembling mechanical devices like cars\n [ Crafted in Workbench. ], air conditioners and more. Can also be used to repair and upgrade walls.","Parfaite pour désassembler voitures, climatiseurs et autres. Sert également à réparer et améliorer les murs.","Ist toll, um mechanische Geräte wie Autos, Klimaanlagen usw. auseinanderzunehmen. Kann auch dazu benutzt werden, Mauern zu reparieren und aufzuwerten.",,"Perfecta para desarmar aparatos mecánicos como coches, aires acondicionados y mucho más. También se puede usar para reparar y mejorar paredes."
+wrenchDesc,items,Tool,KgNone,"Great for disassembling mechanical devices like cars, air conditioners and more. Can also be used to repair walls.","Parfaite pour désassembler voitures, climatiseurs et autres. Sert également à réparer et améliorer les murs.","Ist toll, um mechanische Geräte wie Autos, Klimaanlagen usw. auseinanderzunehmen. Kann auch dazu benutzt werden, Mauern zu reparieren und aufzuwerten.",,"Perfecta para desarmar aparatos mecánicos como coches, aires acondicionados y mucho más. También se puede usar para reparar y mejorar paredes."
 qt_claude,items,Treasure Map,KgNone,Claude's Treasure Map,La carte au trésor de Claude,Claudes Schatzkarte,,Mapa del tesoro de Claude
 qt_desc,items,Treasure Map,KgNone,A ragged old treasure map I found with some scribbling on it.,Une vieille carte au trésor ornée de gribouillages que j'ai trouvée.,"Eine alte, vergilbte Schatzkarte mit ein paar Kritzeleien, die ich gefunden habe.",,Un viejo mapa del tesoro arrugado y con garabatos que encontré por ahí.
 qt_jennifer,items,Treasure Map,KgNone,Jennifer's Treasure Map,La carte au trésor de Jennifer,Jennifers Schatzkarte,,Mapa del tesoro de Jennifer
@@ -6585,4 +6585,16 @@ carEnginesPerk,progression,Skill,KgNone,Engine Recipes,,,,
 carEnginesPerkDesc,progression,Skill,KgNone,"Learn how to craft all versions of Engines.  Exclusive to Builder Class",,,,
 silverHelmetLight,items,Item,KgNone,Silver Helmet (Light),,,,
 DroppedLootContainer,entityclasses,Entity,KgNone,Dropped Loot Container,,,,
-
+ClassBuilderVendingMachinePOI,blocks,Block,KgNone,Builder Class Vending Machine,,,,
+ClassSurvivalistVendingMachinePOI,blocks,Block,KgNone,Survivalist Class Vending Machine,,,,
+ClassScholarVendingMachinePOI,blocks,Block,KgNone,Scholar Class Vending Machine,,,,
+ClassMarksmanVendingMachinePOI,blocks,Block,KgNone,Marksman Class Vending Machine,,,,
+ClassTradesmanVendingMachinePOI,blocks,Block,KgNone,Tradesman Class Vending Machine,,,,
+ClassProtectionVendingMachinePOI,blocks,Block,KgNone,Protection Class Vending Machine,,,,
+ClassFighterVendingMachinePOI,blocks,Block,KgNone,Fighter Class Vending Machine,,,,
+ClassElectricianVendingMachinePOI,blocks,Block,KgNone,Electrician Class Vending Machine,,,,
+ClassCovertVendingMachinePOI,blocks,Block,KgNone,Covert Class Vending Machine,,,,
+condoms,items,Item,KgNone,Condoms,,,,
+condomsDesc,items,Item,KgNone,"A box of 40 premium latex condoms.  If found please return to SOM3D1CK",,,,
+Quest_TraderLocation,items,Item,KgNone,Quest - Trader Located,,,,
+Quest_TraderLocationDesc,items,Item,KgNone,"Locate a Trader near you",,,,
