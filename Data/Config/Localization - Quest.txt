@@ -113,7 +113,7 @@ challenge_nailsomechicks_offer,,Challenge Info,KgNone,"Hello Friend,\nIf you're 
 challenge_nailsomechicks_subtitle,,Challenge Info,KgNone,Kill Chickens with Nailgun,Tuer des poulets avec un pistolet à clous,Töte Hühner mit einer Nagelpistole,,Mata a pollos con la pistola de clavos.
 challenge_thatlldopig,,Challenge Info,KgNone,That'll Do Pig,Espèce de porc,"Gut gemacht, Schwein",,"Eso es todo, puerco"
 challenge_thatlldopig_offer,,Challenge Info,EnChanged KgNone,"Greetings Traveler,\nIf you ‘all are holding this note then you should know my boys have been sticking to you like flies on pig shit. That's because we think you just might be Slick Willie material. Now if you can pull off this wee little task we might just call you kin.\n\nI ain't no city slicker... Willie\n\nChallenge: Kill some boars","Salutations tête brûlée,\nSi tu as ce message entre les mains, tu sais que mes gars te collent au derrière comme les mouches au cul des porcs. Tout ça parce qu'on te pense digne de Willie le rusé. Remplis cette tâche et tu feras peut-être partie de la famille.\n\nWillie le cul-terreux rusé\n\nDéfi : tuer des porcs","Sei gegrüßt, Reisender!\nWenn du diese Notiz in Händen hältst, dann solltest du wissen, dass meine Jungs dich umschwirrt haben wie Fliegen die Schweinescheiße. Denn wir denken, dass du was für Slick Willie wärst. Wenn du jetzt nur noch diese klitzekleine Aufgabe erledigst, dann bist du vielleicht einer von uns.\n\nIch bin kein schmieriges Stadtkind … Willie\n\nHerausforderung: Töte ein paar Wildschweine",,"Saludos, viajero/a:\nSi esta nota está en tus manos, sabrás que mis chicos han estado pegados a ti como moscas en mierda de cerdo. Es porque creemos que tienes lo necesario para ser parte de la banda de Willie el Escurridizo. Si puedes hacerte cargo de esta insignificante tarea, tal vez formes parte de nuestra familia.\n\nTodo se me escurre... Willie.\n\nDesafío: Mata a algunos cerdos."
-challenge_thatlldopig_subtitle,,Challenge Info,EnChanged KgNone,Kill Boars,Tuer des porcs,Töte Wildschweine,,Mata a puercos.
+challenge_thatlldopig_subtitle,,Challenge Info,EnChanged KgNone,Kill Pigs,Tuer des porcs,Töte Wildschweine,,Mata a puercos.
 challenge_stagparty,,Challenge Info,KgNone,Stag Party,Bienvenue chez les cornus,Ich werd zum Hirsch!,,Fiesta de ciervos
 challenge_stagparty_offer,,Challenge Info,KgNone,"Well how do you do,\nFriend if you've reading this letter than you should know my crew has been watching you. Do this little task for us and we might let you join the Willies. If not don't let the door hit you where the good lord split you.\n\nSlick ‘as a whistle' Willie\n\nChallenge: Kill some Stags","Comment ça va ?\nSi tu lis cette lettre, tu sais sûrement que mon équipe t'observe. Rends-nous service et on pourrait bien te laisser rejoindre le clan de Willie. Dans le cas contraire, gare à tes fesses en repartant.\n\nWillie l'enfoiré sacrément rusé\n\nDéfi : tuer des cerfs","Na wie geht es dir, Freund?\nWenn du diesen Brief liest, solltest du wissen, dass meine Leute dich beobachtet haben. Erledige diese kleine Aufgabe für uns und vielleicht darfst du dann den Willies beitreten. Falls nicht, dann mach dich schnell vom Acker!\n\nSlick „glatt wie ein Aal“ Willie\n\nHerausforderung: Töte ein paar Hirsche",,"¿Qué tal te va, colega?:\nSi estás leyendo esta carta, sabrás que mi grupo te ha estado siguiendo. Realiza esta tarea y puede que formes parte de los Willies. Si no la haces, no dejes que la puerta te golpee las narices.\n\nWillie, más escurridizo que una anguila.\n\nDesafío: Mata a un par de ciervos."
 challenge_stagparty_subtitle,,Challenge Info,KgNone,Kill Stags,Tuer des cerfs,Töte Hirsche,,Mata ciervos.
@@ -374,9 +374,9 @@ classtrainingcovert5_subtitle,,Quest Info,KgNone,Covert Class 5 of 5,,,,
 classtrainingcovert5_description,,Quest Info,KgNone,"Covert Class\n\nExclusive Recipes/Perks:  Night Vision Goggles Recipe, Door Lockpicks, Safe Lockpicks, Silver Armor, Silenced Pistol, Silenced Sniper Rifle and Silenced FAMAS",,,,
 quest_wotwmodstarter,,Quest Info,KgNone,Basic Survival 1/2,Les bases de la survie 1/2,Das 1x1 des Überlebens 1/2,,Supervivencia básica 1/2
 quest_wotwmodstarter_subtitle,,Quest Info,KgNone,"Place this Block","Lieu esta Bloc","Platz esta-Block",,"Coloca este bloque"
-quest_wotwmodstarter_description,,Quest Info,KgNone,"Welcome to War of the Walkers Mod.  Opening this create will reward you with some basic starting out supplies.  Please note that once you stand on a bed it will load in the Rest System, which may cause a out of sync error the first time.  It will only happen the once so don't worry about it. :)  Any questions, comments and suggestions please feel free to let me know through the forums.",,,,
-quest_BasicSurvival_offer,,Quest Info,KeyCon KgNone,"Welcome to War of the Walkers Mod, Thank you for playing.  A big thanks to Sirillion for providing SMX UI Mod and for Valmar for the Valmod's UI Layout using SMX.  Another thank you to DreamSmith from the Forums for help testing and finding bugs and to the community who have supported me.","Bienvenue à War of the Walkers Mod, merci de jouer. Un grand merci à Sirillion pour la fourniture de SMX UI Mod et pour Valmar pour la mise en page UI de Valmod utilisant SMX. Un autre merci à DreamSmith des Forums pour l'aide à tester et à trouver des bugs et à la communauté qui m'a soutenu.","Willkommen im Krieg der Walker Mod, vielen Dank für das Spielen. Ein großes Dankeschön an Sirillion für die Bereitstellung von SMX UI Mod und für Valmar für das UI-Layout von Valmod mit SMX. Ein weiteres Dankeschön an DreamSmith aus den Foren für die Hilfe beim Testen und Finden von Bugs und der Community, die mich unterstützt haben.",,"Bienvenido a War of the Walkers Mod, gracias por jugar. Muchas gracias a Sirillion por proporcionar SMX UI Mod y por Valmar para el Layout de UI de Valmod usando SMX. Otra gracias a DreamSmith de los Foros para ayudar a probar y encontrar bichos ya la comunidad que me han apoyado."
-tutorialTipQuest01,,Popup Tip,KgNone,"Welcome to War of the Walkers Mod, Thank you for playing.  A big thanks to Sirillion for providing SMX UI Mod with Many UI Improvements, For Valmar for the Valmod's UI Layout using SMX.  And to sphereii for the Localization Improvements and Craft Lag Fix in the Non-EAC Version.  A huge Thank You to Ozzylynn and S0M3D1CK from my Discord for help with testing and fixing bugs, and to the community who have supported me.","Bienvenue à War of the Walkers Mod, merci de jouer. Un grand merci à Sirillion pour la fourniture de SMX UI Mod et pour Valmar pour la mise en page UI de Valmod utilisant SMX. Un autre merci à DreamSmith des Forums pour l'aide à tester et à trouver des bugs et à la communauté qui m'a soutenu.","Willkommen im Krieg der Walker Mod, vielen Dank für das Spielen. Ein großes Dankeschön an Sirillion für die Bereitstellung von SMX UI Mod und für Valmar für das UI-Layout von Valmod mit SMX. Ein weiteres Dankeschön an DreamSmith aus den Foren für die Hilfe beim Testen und Finden von Bugs und der Community, die mich unterstützt haben.",,"Bienvenido a War of the Walkers Mod, gracias por jugar. Muchas gracias a Sirillion por proporcionar SMX UI Mod y por Valmar para el Layout de UI de Valmod usando SMX. Otra gracias a DreamSmith de los Foros para ayudar a probar y encontrar bichos ya la comunidad que me han apoyado."
+quest_wotwmodstarter_description,,Quest Info,KgNone,"Welcome to War of the Walkers Mod.  Opening this create will reward you with some basic starting out supplies. Any questions, comments and suggestions please feel free to let me know through the forums/discord.",,,,
+quest_BasicSurvival_offer,,Quest Info,KeyCon KgNone,"Welcome to War of the Walkers Mod, Thank you for playing.  A big thanks to Sirillion for providing SMX UI Mod and for Valmar for the Valmod's UI Layout using SMX.  A Big Thanks to Ozzylynn for the help modding and testing.  And of course to the community who have supported me.",,,,
+tutorialTipQuest01,,Popup Tip,KgNone,"Welcome to War of the Walkers Mod, Thank you for playing.  A big thanks to Sirillion for providing SMX UI Mod with Many UI Improvements, For Valmar for the Valmod's UI Layout using SMX.  And to sphereii for the Localization Improvements and Craft Lag Fix.  A huge Thank You to Ozzylynn for the help modding and testing, and to the community who have supported me.",,,,
 tutorialTipQuest02,,Popup Tip,KgNone,"Starter Quest Line has been shortened.  If you are not sure of the basics of 7 Days to Die then I suggest playing Vanilla First for awhile.  This Quest is for placing the  Player Starter Crate where inside you will find useful Items to get you started.  After completing the next quest for placing the bedroll you will then receive all the class quests.  Open your quest window for more info at that time.",,,,
 quest_LocateTrader,,Quest Info,KgNone,Locate a Trader,,,,
 quest_LocateTrader_subtitle,,Quest Info,KgNone,Visit a Local Trader,,,,
@@ -387,6 +387,7 @@ requirementGroupPistol,,Requirement Group,KgNone,Holding any Pistol Type Gun,,,,
 requirementGroupRifle,,Requirement Group,KgNone,Holding any Rifle Type Gun,,,,
 requirementGroupClub,,Requirement Group,KgNone,Holding any Club Type Weapon,,,,
 requirementGroupKnife,,Requirement Group,KgNone,Holding any Knife Type Weapon,,,,
+requirementGroupNailgun,,Requirement Group,KgNone,Holding any Nailgun,,,,
 BuilderClass,,Quest Info,KgNone,Builder Class,,,,
 SurvivalistClass,,Quest Info,KgNone,Survivalist Class,,,,
 ScholarClass,,Quest Info,KgNone,Scholar Class,,,,
@@ -396,9 +397,48 @@ TradesmanClass,,Quest Info,KgNone,Tradesman Class,,,,
 ProtectionClass,,Quest Info,KgNone,Protection Class,,,,
 ElectricianClass,,Quest Info,KgNone,Electrician Class,,,,
 CovertClass,,Quest Info,KgNone,Covert Class,,,,
-
-
-
-
+quest_whiteRiverCitizen1_offer,,Quest Info,KgNone,"Accept this to locate a trader location near you",,,,
+classtrainingcook1,,Quest Info,KgNone,Cook Class Part 1 of 5,,,,
+classtrainingcook1_subtitle,,Quest Info,KgNone,Cook Class 1 of 5,,,,
+classtrainingcook1_offer,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook1_description,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+CookClass,,Quest Info,KgNone,Cook Class,,,,
+classtrainingcook2,,Quest Info,KgNone,Cook Class Part 2 of 5,,,,
+classtrainingcook2_subtitle,,Quest Info,KgNone,Cook Class 2 of 5,,,,
+classtrainingcook2_offer,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook2_description,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook3,,Quest Info,KgNone,Cook Class Part 3 of 5,,,,
+classtrainingcook3_subtitle,,Quest Info,KgNone,Cook Class 3 of 5,,,,
+classtrainingcook3_offer,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook3_description,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook4,,Quest Info,KgNone,Cook Class Part 4 of 5,,,,
+classtrainingcook4_subtitle,,Quest Info,KgNone,Cook Class 4 of 5,,,,
+classtrainingcook4_offer,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook4_description,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook5,,Quest Info,KgNone,Cook Class Part 5 of 5,,,,
+classtrainingcook5_subtitle,,Quest Info,KgNone,Cook Class 5 of 5,,,,
+classtrainingcook5_offer,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingcook5_description,,Quest Info,KgNone,"Cook Class\n\nExclusive Recipes/Perks:  Food Processing Table, Microwave, Coffee Maker, Convection Oven, Player Oven, Several Food Recipes",,,,
+classtrainingmechanic1,,Quest Info,KgNone,Mechanic Class Part 1 of 5,,,,
+classtrainingmechanic1_subtitle,,Quest Info,KgNone,Mechanic Class 1 of 5,,,,
+classtrainingmechanic1_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic1_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+MechanicClass,,Quest Info,KgNone,Mechanic Class,,,,
+classtrainingmechanic2,,Quest Info,KgNone,Mechanic Class Part 2 of 5,,,,
+classtrainingmechanic2_subtitle,,Quest Info,KgNone,Mechanic Class 2 of 5,,,,
+classtrainingmechanic2_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic2_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic3,,Quest Info,KgNone,Mechanic Class Part 3 of 5,,,,
+classtrainingmechanic3_subtitle,,Quest Info,KgNone,Mechanic Class 3 of 5,,,,
+classtrainingmechanic3_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic3_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic4,,Quest Info,KgNone,Mechanic Class Part 4 of 5,,,,
+classtrainingmechanic4_subtitle,,Quest Info,KgNone,Mechanic Class 4 of 5,,,,
+classtrainingmechanic4_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic4_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic5,,Quest Info,KgNone,Mechanic Class Part 5 of 5,,,,
+classtrainingmechanic5_subtitle,,Quest Info,KgNone,Mechanic Class 5 of 5,,,,
+classtrainingmechanic5_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
+classtrainingmechanic5_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
 
 
