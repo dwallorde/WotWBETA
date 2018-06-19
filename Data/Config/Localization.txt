@@ -5641,7 +5641,7 @@ SpeedTrapRecipesDesc,progression,Skill,KgNone,"Learn how to craft Speed Trap, Fi
 RestSet,items,Item,KgNone,Rest Set,,,,
 RestSetDesc,items,Item,KgNone,Taking this will activate your rest levels at maximum level,Cela vous permettra d'activer vos niveaux de repos au niveau maximum,Auf diese Weise aktivieren Sie Ihre Ruhe-Levels auf höchstem Niveau,,Tomando esto activará sus niveles de descanso al nivel máximo
 HDWrench,items,Item,KgNone,Steel Wrench,,,,
-HDWrenchDesc,items,Item,KgNone,"A Steel Wrench that will disassemble items faster.  Can only be crafted by The Tradesman Class or purchased at the Trader.\n [ Crafted in Workbench. ]","Un Heavy Duty Clé thatwill désassembler articles plus rapide. Ne peut être conçu par la classe Commerçant ou achetés au Trader.","Ein Heavy Duty-Schlüssel, die Elemente schneller auseinander nehmen wird. Kann nur durch die Tradesman Klasse gefertigt werden Sie Gold am Trader erworben.",,"Una Llave de alta resistencia que va a desmontar los elementos más rápido. Sólo puede ser elaborado por la clase comerciante que compró oro al comerciante."
+HDWrenchDesc,items,Item,KgNone,"A Steel Wrench that will disassemble items faster.  Can only be crafted by The Mechanic Class or purchased at the Trader.\n[ Crafted in Workbench. ]","Un Heavy Duty Clé thatwill désassembler articles plus rapide. Ne peut être conçu par la classe Commerçant ou achetés au Trader.","Ein Heavy Duty-Schlüssel, die Elemente schneller auseinander nehmen wird. Kann nur durch die Tradesman Klasse gefertigt werden Sie Gold am Trader erworben.",,"Una Llave de alta resistencia que va a desmontar los elementos más rápido. Sólo puede ser elaborado por la clase comerciante que compró oro al comerciante."
 ChickenRaw,items,Item,KgNone,Raw Chicken (Scrap Me V5.1),,,,
 ChickenRawDesc,items,Item,KgNone,"DISCONTINUED AS OF V5.1  SCRAP ME TO RECEIVE NEW RAW MEAT",,,,
 ChickenFried,items,Item,KgNone,Fried Chicken,,,,
@@ -5743,7 +5743,7 @@ ProtectionClassLevel3Desc,progression,Skill,KgNone,"Protection Class Level 3 Unl
 ClassCrateProtection,blocks,Block,KgNone,Protection Class Crate,,,,
 ClassPaper,items,Item,KgNone,Class Paper,,,,
 ClassPaperDesc,items,Item,KgNone,"Recipe Item for Crafting Class Papers.  Click Recipes to view the available classes you can go for.","Recette Point pour la classe Papiers Crafting. Cliquez sur Recettes pour afficher les classes disponibles, vous pouvez aller pour.","Crafting Rezept für Klasse-Papiere. Rezepte Klicken Sie auf die verfügbaren Klassen anzuzeigen, die Sie für gehen kann.",,"La elaboración de artículos Receta de ponencias clase. Recetas Click para ver las clases disponibles que puede ir para."
-ClassPaperItemDesc,items,Item,KgNone,"Crafted by finding Fragments A, B and C.  Crafting this is part of the Quest Chain for each Class",,,,
+ClassPaperItemDesc,items,Item,KgNone,"Crafted by finding 5 of the Fragments.  Crafting this is part of the Quest Chain for each Class",,,,
 ClassPaperBuilder,items,Item,KgNone,Builder Class Paper,,,,
 ClassPaperSurvivalist,items,Item,KgNone,Survivalist Class Paper,,,,
 ClassPaperScholar,items,Item,KgNone,Scholar Class Paper,,,,
@@ -6372,7 +6372,7 @@ diamondTippedFireaxeSchematicDesc,items,Item,KgNone,Learn how to craft a Diamond
 diamondTippedPickaxeSchematic,items,Item,KgNone,Diamond Tipped Pickaxe Schematic,,,,
 diamondTippedPickaxeSchematicDesc,items,Item,KgNone,Learn how to craft a Diamond Tipped Pickaxe.  Tradesman Class Exclusive,,,,
 hdWrenchSchematic,items,Item,KgNone,Steel Wrench Schematic,,,,
-hdWrenchSchematicDesc,items,Item,KgNone,Learn how to craft a Steel Wrench.  Tradesman Class Exclusive,,,,
+hdWrenchSchematicDesc,items,Item,KgNone,Learn how to craft a Steel Wrench.  Mechanic Class Exclusive,,,,
 advancedToolSmithingWorkstationSchematic,items,Item,KgNone,Advanced Tool Smithing Workstation Schematic,,,,
 advancedToolSmithingWorkstationSchematicDesc,items,Item,KgNone,Learn how to craft a Advanced Tool Workstation.  Tradesman Class Exclusive,,,,
 buildersWorkbenchSchematic,items,Item,KgNone,Builders Workbench Schematic,,,,
@@ -6851,13 +6851,13 @@ steelHuntingKnifeDesc,items,Item,KgNone,"A Hunting Knife made of steel.  Gets bo
 tungstenHuntingKnife,items,Item,KgNone,Tungsten Hunting Knife,,,,
 tungstenHuntingKnifeDesc,items,Item,KgNone,"A Hunting Knife made from Tungsten.  Gets extra bonus from harvesting corpses\n[ Crafted in Workbench. ]",,,,
 tungstenWrench,items,Item,KgNone,Tungsten Wrench,,,,
-tungstenWrenchDesc,items,Item,KgNone,"Tungsten Wrench will harvest more resources. Can also be used to repair walls.\n[ Crafted in Advanced Tool Workbench. ]",,,,
+tungstenWrenchDesc,items,Item,KgNone,"Tungsten Wrench will harvest more resources. Can also be used to repair walls.  Crafted Exclusively by the Mechanic Class.\n[ Crafted in Advanced Tool Workbench. ]",,,,
 cleaver,items,Item,KgNone,Cleaver,,,,
 cleaverDesc,items,Item,KgNone,"A great weapon for butchering some heads with.",,,,
 crowbarSteel,items,Item,KgNone,Steel Crowbar,,,,
-crowbarSteelDesc,items,Item,KgNone,"A Crowbar is great for getting resources out of blocks.\n[ Crafted in Workbench. ]",,,,
+crowbarSteelDesc,items,Item,KgNone,"A Crowbar is great for getting resources out of blocks.  Crafted exclusively by The Builder Class.\n[ Crafted in Workbench. ]",,,,
 crowbarTungsten,items,Item,KgNone,Tungsten Crowbar,,,,
-crowbarTungstenDesc,items,Item,KgNone,"A Tungsten Crowbar is great for getting extra resources out of blocks with higher durability.\n[ Crafted in Advanced Tool Workbench. ]",,,,
+crowbarTungstenDesc,items,Item,KgNone,"A Tungsten Crowbar is great for getting extra resources out of blocks with higher durability. Crafted exclusively by The Builder Class.\n[ Crafted in Advanced Tool Workbench. ]",,,,
 sickleSteel,items,Item,KgNone,Steel Sickle,,,,
 sickleSteelDesc,items,Item,KgNone,"A Steel Sickled is great for getting plant fibers and lasts longer than the iron version.\n[ Crafted in Inventory. ]",,,,
 sledgehammerSteel,items,Item,KgNone,Steel Sledgehammer,,,,
@@ -7343,6 +7343,34 @@ fountainStone,blocks,Block,KgNone,Stone Fountain,,,,
 statueAngel,blocks,Block,KgNone,Angel Statue,,,,
 SpeedTrapSet,blocks,Block,KgNone,Speed Trap,,,,
 carWreckedTruck,blocks,Block,KgNone,Wrecked Truck,,,,
+screwdriverSchematic,items,Item,KgNone,Screwdriver Schematic,,,,
+crowbarSteelSchematicDesc,items,Item,KgNone,"Learn how to craft a Steel Crowbar.  Builder Class Exclusive",,,,
+crowbarTungstenSchematicDesc,items,Item,KgNone,"Learn how to craft a Tungsten Crowbar.  Builder Class Exclusive",,,,
+sickleSteelSchematicDesc,items,Item,KgNone,"Learn how to craft a Steel Sickle.",,,,
+diamondTippedShovelSchematicDesc,items,Item,KgNone,"Learn how to craft a Diamond Tipped Shovel.  Tradesman Class Exclusive",,,,
+steelHuntingKnifeSchematicDesc,items,Item,KgNone,"Learn how to craft a Steel Hunting Knife",,,,
+tungstenHuntingKnifeSchematicDesc,items,Item,KgNone,"Learn how to craft a Tungsten Hunting Knife",,,,
+tungstenWrenchSchematicDesc,items,Item,KgNone,"Learn how to craft a Tungsten Wrench.  Mechanic Class Exclusive",,,,
+sledgehammerSteelSchematicDesc,items,Item,KgNone,"Learn how to craft a Steel Sledgehammer",,,,
+sledgehammerTungstenSchematicDesc,items,Item,KgNone,"Learn how to craft a Tungsten Sledgehammer",,,,
+screwdriverSchematicDesc,items,Item,KgNone,"Learn how to craft a Screwdriver.  Tradesman Class Exclusive",,,,
+swordSchematicDesc,items,Item,KgNone,"Learn how to craft a Sword.  Fighter Class Exclusive",,,,
+pieRecipePartIDesc,items,Item,KgNone,"Learn how to craft Pumpkin Pie, FruitPie, Strawberry Pie and Blackberry Pie.  Cook Class Exclusive",,,,
+pieRecipePartIIDesc,items,Item,KgNone,"Learn how to craft Chocolate Pumpkin Pie, Chocolate Pie, Apple Pie and Blueberry Pie.  Cook Class Exclusive",,,,
+bakedPumpkinRecipeDesc,items,Item,KgNone,"Learn how to craft Baked Pumpkin.  Cook Class Exclusive",,,,
+meatPiesRecipeDesc,items,Item,KgNone,"Learn how to craft Small Meat Pie, Chicken Pot Pie, Venison Meat Pie, Roasted Bear Pie.  Cook Class Exclusive",,,,
+turkeyDinnerRecipeDesc,items,Item,KgNone,"Learn how to craft Turkey Dinner.  Cook Class Exclusive",,,,
+roastBeefRecipeDesc,items,Item,KgNone,"Learn how to craft Roast Beef.  Cook Class Exclusive",,,,
+saladsRecipeDesc,items,Item,KgNone,"Learn how to craft Wedge Salad, Large Salad and Club Salad.  Cook Class Exclusive",,,,
+chocolateCookiesRecipeDesc,items,Item,KgNone,"Learn how to craft Chocolate Cookies.  Cook Class Exclusive",,,,
+chocolateCakeRecipeDesc,items,Item,KgNone,"Learn how to craft Chocolate Cake.  Cook Class Exclusive",,,,
+soupNaziPartIDesc,items,Item,KgNone,"Learn how to craft Chicken Stock, Beef Stock, Potato Soup and Leek Soup.  Cook Class Exclusive",,,,
+soupNaziPartIIDesc,items,Item,KgNone,"Learn how to craft Onion Soup, Chicken Soup, Bear Soup and Egg Drop Soup.  Cook Class Exclusive",,,,
+sickleSteelSchematic,items,Item,KgNone,Steel Sickle Schematic,,,,
+
+
+
+
 
 
 
