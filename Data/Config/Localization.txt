@@ -7383,6 +7383,10 @@ CucumberSalad,items,Item,KgNone,Cucumber Salad,,,,
 CucumberSaladDesc,items,Item,KgNone,"A Cucumber Salad.  (Cook Class Exclusive).\n[ Crafted in Tungsten Forge with Crucible. ]",,,,
 summersalad,items,Item,KgNone,Summer Salad,,,,
 summersaladDesc,items,Item,KgNone,"A Summer Salad.  (Cook Class Exclusive).\n[ Crafted in Tungsten Forge with Crucible. ]",,,,
+flamethrower,items,Gun,,Flamethrower,,,,
+flamethrowerDesc,items,Gun,,This flame gun uses flamethrower ammo. Can be re-assembled and repaired..,,,,
+flamethrowerAmmo,items,Ammo,,Flamethrower Ammo,,,,
+flamethrowerAmmoDesc,items,Ammo,,Flamethrower Ammo.,,,,
 
 
 
