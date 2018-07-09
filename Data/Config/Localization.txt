@@ -5589,7 +5589,7 @@ WrenchRecipeDesc,progression,Skill,KgNone,Learn how to craft a wrench,Apprenez �
 HammerRecipeDesc,progression,Skill,KgNone,Learn how to craft a Claw Hammer,Apprenez à fabriquer un marteau à griffe,"Erlernen Sie, wie man einen Greifer-Hammer herstellt",,Aprenda cómo hacer un martillo de garra
 HDNailgunRecipeDesc,progression,Skill,KgNone,Learn how to assemble a Heavy Duty Nailgun,Apprenez à assembler un nailgun Heavy Duty,"Erfahren Sie, wie eine Heavy Duty Nailgun zusammenzubauen",,Aprenda cómo ensamblar un Nailgun resistente
 TailorsWorkstationDesc,progression,Skill,KgNone,Learn how to craft a Tailors Workstation used for Crafting Cloth type Armor,Apprenez à fabriquer un Tailors Workstation utilisé pour l'artisanat Type d'armure de tissu,"Erlernen Sie, wie man eine Schneiderarbeitsstation herstellt, die für Fertigkeit-Tuchart Rüstung benutzt wird",,Aprenda cómo diseñar una estación de trabajo de sastres usada para fabricar armadura tipo tela
-ArmorSmithingWorkstationDesc,progression,Skill,KgNone,Learn how to craft a Armor Smithing Station used for Crafting Armor.  Protection Class Exclusive,Apprenez à fabriquer une Armor Smithing Station utilisée pour fabriquer des armures de type métal,"Erlernen Sie, wie man eine Rüstungs-Smithing-Station für Crafting Metal Type Armor herstellt",,Aprenda cómo diseñar una estación de armadura Smithing utilizada para artesanía de tipo armadura de metal
+ArmorSmithingWorkstationPerkDesc,progression,Skill,KgNone,Learn how to craft a Armor Smithing Station used for Crafting Armor.  Protection Class Exclusive,Apprenez à fabriquer une Armor Smithing Station utilisée pour fabriquer des armures de type métal,"Erlernen Sie, wie man eine Rüstungs-Smithing-Station für Crafting Metal Type Armor herstellt",,Aprenda cómo diseñar una estación de armadura Smithing utilizada para artesanía de tipo armadura de metal
 AdvancedToolsWorkstationDesc,progression,Skill,KgNone,"Learn how to craft a Advanced Tools Workstation used for crafting Steel Tools, Tungsten Tools, plus more","Apprenez à concevoir une station de travail avancée pour les outils Steel Tools, Tungsten Tools et plus","Erlernen Sie, wie man eine vorgerückte Werkzeug-Arbeitsstation fertigt, die für crafting Stahlwerkzeuge, Wolfram-Werkzeuge und mehr benutzt wird",,"Aprenda a diseñar una estación de trabajo de herramientas avanzadas para la elaboración de herramientas de acero, herramientas de tungsteno y más"
 WoodWorkingWorkstationDesc,progression,Skill,KgNone,"Learn how to craft a Wood Working Workstation used for crafting Cobblestone Blocks, Stairs, and Doors","Apprenez à fabriquer un poste de travail en bois utilisé pour fabriquer des blocs pavés, des escaliers et des portes","Erlernen Sie, wie man eine hölzerne Arbeitsarbeitsstation herstellt, die für das Crafting der Kopfsteinblöcke, der Treppen und der Türen benutzt wird",,"Aprenda a diseñar una estación de trabajo de trabajo de madera utilizada para la elaboración de bloques de adoquines, escaleras y puertas"
 WeaponsSmithingWorkstationDesc,progression,Skill,KgNone,Learn how to craft a Weapons Smithing Workstation used to craft gun parts,Apprenez comment fabriquer une station de travail de Smithing d'armes utilisée pour fabriquer des pièces d'arme,"Erlernen Sie, wie man eine Waffen-Schmieden-Arbeitsstation fertigt, die benutzt wird, um Gewehrteile zu bilden",,Aprenda cómo diseñar una estación de trabajo de Smithing de armas usada para fabricar piezas de armas
@@ -7080,7 +7080,6 @@ steelToolCrafting,progression,Skill,KgNone,Steel Tools,,,,
 steelToolCraftingDesc,progression,Skill,KgNone,"Learn how to craft Steel Tools.  Can be purchased at Player Level 100 and Steel Tool Crafting Skill Level 1.",,,,
 tungstenToolCrafting,progression,Skill,KgNone,Tungsten Tools (Class Only),,,,
 tungstenToolCraftingDesc,progression,Skill,KgNone,"Learn how to craft Tungsten Tools.  Can be purchased by Tradesman Class at Player Level 150 and Tungsten/Diamond Tool Crafting Skill Level 1.",,,,
-diamondTippedShovelSchematicPerk,progression,Skill,KgNone,Diamond Tipped Shovel (Class Only),,,,
 hammerRounding,items,Item,KgNone,Rounding Hammer,,,,
 hammerRoundingDesc,items,Item,KgNone,"A Rounding Hammer is a tool used in the Tool Workbench.  Required for some recipes.",,,,
 handlewood,items,Item,KgNone,Wooden Handle,,,,
@@ -7099,7 +7098,6 @@ classFragmentMechanicC,items,Item,KgNone,Mechanic Class Fragment (C),,,,
 ClassPaperMechanic,items,Item,KgNone,Mechanic Class Paper,,,,
 shotgunSlugSchematicPerk,progression,Skill,KgNone,Shotgun Slug Schematic,,,,
 handleBarsSchematicPerk,progression,Skill,KgNone,Handlebars Schematic,,,,
-leatherTanningPerk,progression,Skill,KgNone,Leather Tanning,,,,
 classFragmentBuilder,items,Item,KgNone,Builder Class Fragment,,,,
 classFragmentSurvivalist,items,Item,KgNone,Survivalist Class Fragment,,,,
 classFragmentScholar,items,Item,KgNone,Scholar Class Fragment,,,,
@@ -7383,10 +7381,6 @@ CucumberSalad,items,Item,KgNone,Cucumber Salad,,,,
 CucumberSaladDesc,items,Item,KgNone,"A Cucumber Salad.  Recipe Exclusive to The Cook Class.\n[008000][ Crafted in Food Processing Table with Cutting Board. ][-]",,,,
 summersalad,items,Item,KgNone,Summer Salad,,,,
 summersaladDesc,items,Item,KgNone,"A Summer Salad.  Recipe Exclusive to The Cook Class.\n[008000][ Crafted in Food Processing Table with Cutting Board. ][-]",,,,
-flamethrower,items,Gun,,Flamethrower,,,,
-flamethrowerDesc,items,Gun,,This flame gun uses flamethrower ammo. Can be re-assembled and repaired..,,,,
-flamethrowerAmmo,items,Ammo,,Flamethrower Ammo,,,,
-flamethrowerAmmoDesc,items,Ammo,,Flamethrower Ammo.,,,,
 adminQuestPaperDesc,items,Item,KgNone,"These papers will regive the class quests that the person may have lost.",,,,
 adminQuestBuilderClass1,items,Item,KgNone,<Admin> Builder Class Paper P1,,,,
 adminQuestBuilderClass2,items,Item,KgNone,<Admin> Builder Class Paper P2,,,,
