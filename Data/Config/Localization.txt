@@ -4110,7 +4110,7 @@ paintGroupDesc,progression,Perk,New,This skill cannot be purchased with skill po
 secretStash,progression,Perk,New,Secret Stash,,,,
 secretStashDesc,progression,Perk,New,By increasing this perk traders will show you more and better items from their Secret Stash.,,,,
 badMechanic,progression,Skill,New,Bad Mechanic,,Einseitiger Mechaniker,,
-badMechanicDesc,progression,Skill,New,Putting things back together has never been your strong point but you get more useful items when taking them apart. Receive more resources when harvesting with construction tools.,,Dinge zerlegen kannst du gut. Zusammenbauen... weniger. Sammle mehr mit Bauwerkzeugen.,,
+badMechanicDesc,progression,Skill,New,Putting things back together has never been your strong point but you get more useful items when taking them apart. Receive more resources when harvesting with mechanical tools.,,Dinge zerlegen kannst du gut. Zusammenbauen... weniger. Sammle mehr mit Bauwerkzeugen.,,
 rentVendingMachine,service,Service,New,Rent Vending Machine,,,,
 rentVendingMachineDesc,service,Service,New,This allows you to rent a vending machine for a single game month. The time displayed will be shown in real time units.,,,,
 auth_Banned,UI,AuthenticationMessages,New,You are banned until {0},Vous êtes banni(e) jusqu'à {0}.,Du bist bis {0} gebannt.,,Eres expulsado hasta {0}.
@@ -7508,6 +7508,11 @@ flamethrower,items,Item,KgNone,Flamethrower,,,,
 flamethrowerDesc,items,Item,KgNone,"A wicked flamethrower that shoots fire at you enemies.",,,,
 flamethrowerAmmo,items,Item,KgNone,Flamethrower Ammo,,,,
 flamethrowerAmmoDesc,items,Item,KgNone,"Ammo for the flamethrower.",,,,
-
-
+fertilizingCrops,progression,Skill,KgNone,Fertilizing Crops,,,,
+fertilizingCropsDesc,progression,Skill,KgNone,"Learn how to craft Fertilizer and Advanced Fertilizer to further increase the yield of your crops.",,,,
+advancedFertilizer,items,Item,KgNone,Advanced Fertilizer,,,,
+advancedFertilizerDesc,items,Item,KgNone,"This can be used to further fertilize your crops after being fertilized once by regular fertilizer.  Crops will yield more than regular fertlized ground.\n[008000][ Crafted in Cement Mixer and Chemistry Station. ][-]",,,,
+zombieFrigidHunter,entityclasses,Entity,KgNone,Zombie Frigid Hunter,,,,
+zombieFrostbittenWorker,entityclasses,Entity,KgNone,Zombie Frostbitten Worker,,,,
+animalFeralRadiatedZombieDog,entityclasses,Entity,KgNone,Feral Radiated Zombie Dog,,,,
 
