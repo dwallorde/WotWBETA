@@ -1186,7 +1186,7 @@ firstAidKitSchematicDesc,items,Book,KgNone,Learn to make first aid kits by readi
 flamingArrowSchematic,items,Book,KgNone,Flaming Arrow Schematic,Schéma de flèche enflammée,Bauplan – Feuerpfeil,,Esquema de flecha incendiaria
 flamingArrowSchematicDesc,items,Book,KgNone,Learn to craft flaming arrows by reading this schematic.,Apprenez à fabriquer des flèches enflammées en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Feuerpfeile gefertigt werden.",,Lee el esquema para aprender a fabricar flechas incendiarias.
 gasCanSchematic,items,Book,KgNone,Gas Can Schematic,Schéma de bidon d'essence,Bauplan – Benzinkanister,,Esquema de bidón de gas
-gasCanSchematicDesc,items,Book,KgNone,Learn how to craft gas by reading this schematic.,Apprenez à fabriquer de l'essence en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Benzin gefertigt wird.",,Lee este esquema para aprender a producir gas.
+gasCanSchematicDesc,items,Book,KgNone,Learn how to craft gas and gas barrels by reading this schematic.,Apprenez à fabriquer de l'essence en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Benzin gefertigt wird.",,Lee este esquema para aprender a producir gas.
 herbalAntibioticsRecipe,items,Book,KgNone,Herbal Antibiotics Recipe,Composition d'antibiotiques naturels,Rezept – Natürliche Antibiotika,,Receta de antibióticos herbales
 herbalAntibioticsRecipeDesc,items,Book,KgNone,Read this ancient Navezgane Apache Indian medicine man recipe to learn how to make herbal antibiotics.,Lisez cette composition issue d'un vieux chaman apache de Navezgane pour apprendre à fabriquer des antibiotiques naturels.,"In diesem alten Medizinmann-Rezept der Apache-Indianer von Navezgane erfährst du, wie natürliche Antibiotika gefertigt werden.",,Lee esta antigua receta de los indios apaches de Navezgane para aprender a elaborar antibióticos herbales.
 huntingKnifeBook,items,Book,KgNone,Iron Hunting Knife Book,Livre « Le couteau de chasse »,Buch „Jagdmesser“,,Libro del Cuchillo de caza
@@ -7488,9 +7488,9 @@ tungstenHandleBarsSchematicPerk,progression,Skill,KgNone,Tungsten Handlebars Sch
 mechanicTools,progression,Skill,KgNone,Mechanic Tools,,,,
 mechanicToolsDesc,progression,Skill,KgNone,"Do more damage and harvest faster with mechanic tools such as wrenches.",,,,
 craftSkillCooking,progression,Skill,KgNone,Cooking Skill,,,,
-craftSkillCookingDesc,progression,Skill,KgNone,"Purchase to Increase your Crafting Skill, Decrease Craft Time, Repair Time/Quality and Repair Quality Loss for Food Items.",,,,
+craftSkillCookingDesc,progression,Skill,KgNone,"Purchase to Decrease Craft Time for Food Items.",,,,
 craftSkillCookingClassBonus,progression,Skill,KgNone,Cooking Skill (Class Bonus),,,,
-craftSkillCookingClassBonusDesc,progression,Skill,KgNone,"Cooking Bonus Skill for Cook Class that will allow you to craft items with quality up to 600, faster item crafting and faster repairs.",,,,
+craftSkillCookingClassBonusDesc,progression,Skill,KgNone,"Cooking Bonus Skill for Cook Class that will allow you to craft items faster.",,,,
 waterBarrelFull,blocks,Block,KgNone,Water Barrel (Full),,,,
 waterBarrelEmpty,blocks,Block,KgNone,Water Barrel (Empty),,,,
 spearWooden,items,Item,KgNone,Wooden Spear,,,,
@@ -7515,4 +7515,7 @@ advancedFertilizerDesc,items,Item,KgNone,"This can be used to further fertilize 
 zombieFrigidHunter,entityclasses,Entity,KgNone,Zombie Frigid Hunter,,,,
 zombieFrostbittenWorker,entityclasses,Entity,KgNone,Zombie Frostbitten Worker,,,,
 animalFeralRadiatedZombieDog,entityclasses,Entity,KgNone,Feral Radiated Zombie Dog,,,,
-
+sausageAndEggs,items,Item,KgNone,Sausage and Eggs,,,,
+sausageAndEggsDesc,items,Item,KgNone,"A good replacement for when you don't have enough white meat to make bacon",,,,
+drawingBlood,progression,Skill,KgNone,Drawing Blood (Class Only),,,,
+drawingBloodDesc,progression,Skill,KgNone,"Learn how to craft blood draw kits.  Survivalist Class Exclusive",,,,
