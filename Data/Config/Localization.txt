@@ -21,7 +21,7 @@ thirsty2Desc,buffs,Buff,EnChanged,You are dying of thirst! Find something to dri
 thirsty2Tooltip,buffs,Buff,EnChanged,You are dying of thirst! Find something to drink!,Vous avez très soif et devriez boire beaucoup.,Du verdurstest! Finde etwas zu trinken!,,Tienes mucha sed y deberías beber bastante líquidos.
 blunderbussAmmoDesc,items,Ammo,EnChanged,"Blunderbuss ammo can be made with paper and gun powder plus small rocks.\n[008000][ Crafted in Mortar and Pestle. ][-]\n[008000][ Crafted in Player Inventory. ][-]",,"Munition für die Donnerbüchse kann mit Papier, Schießpulver und kleinen Steinen gefertigt werden.",,
 ironCrossbowBoltDesc,items,Ammo,EnChanged,"An iron-tipped bolt for the crossbow. Hold reload to use alternate ammo.\n[008000][ Crafted in Player Inventory. ][-]",,"Ein Eisenbolzen für Armbrüste. Nachladen gedrückt halten, um zwischen Munitionsarten zu wechseln.",,
-rocketDesc,items,Ammo,EnChanged,"A rocket used as rocket launcher ammunition.\n[008000][ Crafted in Ammo Workstation. ][-]",,"Eine Rakete dient als Munition für Raketenwerfer und kann mittels Schmiede und Werkbank gefertigt werden, wenn du den Bauplan dafür gelesen hast.",,
+rocketDesc,items,Ammo,EnChanged,"A rocket used as rocket launcher ammunition.\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",,"Eine Rakete dient als Munition für Raketenwerfer und kann mittels Schmiede und Werkbank gefertigt werden, wenn du den Bauplan dafür gelesen hast.",,
 pumpShotgunSchematicDesc,items,Book,EnChanged,"Learn how to assemble, repair and augment shotguns by reading this schematic.","Apprenez à assembler, réparer et perfectionner les fusils à pompe à long canon en lisant ce schéma.","In diesem Bauplan erfährst du, wie Schrotflinten zusammengesetzt, repariert und verbessert werden.",,"Lee el esquema para aprender a armar, reparar y mejorar escopetas de largo alcance."
 animalHidePoncho,items,Clothes,EnChanged,Leather Poncho,Poncho en peau de bête,Lederponcho,,Poncho de piel de animal
 bandanaClothesGroupDesc,items,Clothes,EnChanged,Bandanas provide some protection against damage.,"Les bandanas vous protègent lorsqu'il fait chaud et vous protègent également contre d'autres sortes de dégâts, comme n'importe quel accessoire vestimentaire.",Halstücher bieten etwas Schutz vor Schaden.,,"Las bandanas te mantienen fresco en climas calurosos y, al igual que toda la ropa, brindan un poco de protección contra otro tipo de daños."
@@ -1126,9 +1126,9 @@ zombieYo,entityclasses,Entity,KgNone,Zombie Yo,Carcasse pourrie,Verrottender Kad
 animalZombieVulture,entityclasses,Entity,New,Zombie Vulture,,,,
 playersBackpack,entityclasses,Entity Info,KgNone,{0}'s backpack,Sac à dos de {0},Rucksack von {0},,La mochila de {0}
 44MagBullet,items,Ammo,EnChanged,.44 Magnum Round (Ammo),Cartouches de .44 magnum,.44 Magnum Patrone (Mun),,Balas para Magnum 44
-44MagBulletDesc,items,Ammo,KgNone,"A .44 Magnum round used as firearm ammunition.\n[008000][ Crafted in Ammo Workstation. ][-]",Une cartouche de .44 magnum servant de munition pour arme à feu. Peut être fabriquée après l'achat de l'avantage correspondant.,"Eine .44 Magnum Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de Mágnum de 0.44 usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
+44MagBulletDesc,items,Ammo,KgNone,"A .44 Magnum round used as firearm ammunition.\n[008000][ Crafted in Ammo Workstation with Calipers. ][-]",Une cartouche de .44 magnum servant de munition pour arme à feu. Peut être fabriquée après l'achat de l'avantage correspondant.,"Eine .44 Magnum Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de Mágnum de 0.44 usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
 762mmBullet,items,Ammo,EnChanged,7.62mm Round (Ammo),"Cartouche 7,62 mm","7,62 mm Patrone (Mun)",,Bala de 7.62mm
-762mmBulletDesc,items,Ammo,KgNone,"A 7.62mm round used as firearm ammunition.\n[008000][ Crafted in Ammo Workstation. ][-]","Une cartouche de calibre 7,62 mm servant de munition pour arme à feu. Peut être fabriquée après l'achat de l'avantage correspondant.","Eine 7,62 mm Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de 7.62mm usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
+762mmBulletDesc,items,Ammo,KgNone,"A 7.62mm round used as firearm ammunition.\n[008000][ Crafted in Ammo Workstation with Calipers. ][-]","Une cartouche de calibre 7,62 mm servant de munition pour arme à feu. Peut être fabriquée après l'achat de l'avantage correspondant.","Eine 7,62 mm Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de 7.62mm usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
 9mmBullet,items,Ammo,EnChanged,9mm Round (Ammo),Cartouche 9 mm,9 mm Patrone (Mun),,Bala de 9mm
 9mmBulletDesc,items,Ammo,KgNone,"A 9mm round used as firearm ammunition. Can be crafted once you've purchased the perk.\n[008000][ Crafted in Ammo Workstation. ][-]",Une cartouche de calibre 9 mm servant de munition pour arme à feu. Peut être fabriquée après l'achat de l'avantage correspondant.,"Eine 9 mm Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de 9mm usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
 arrow,items,Ammo,EnChanged,Arrow (Ammo),Flèche,Pfeil (Mun),,Flecha
@@ -1149,7 +1149,7 @@ rocket,items,Ammo,EnChanged,Rocket (Ammo),Roquette,Rakete (Mun),,Cohete
 shotgunShell,items,Ammo,EnChanged,Shotgun Shell (Ammo),Cartouche de fusil à pompe,Flintenmunition (Mun),,Cartucho de escopeta
 shotgunShellDesc,items,Ammo,KgNone,"A shotgun shell used for all shotguns.\n[008000][ Crafted in Ammo Workstation. ][-]",Une cartouche de fusil à pompe pouvant être utilisée pour tous les fusils à pompe. Achetez l'avantage de munitions pour pouvoir en fabriquer.,"Flintenmunition, die mit allen Schrotflinten benutzt werden kann. Kann gefertigt werden, nachdem die Fertigkeit „Munition“ erworben wurde.",,Un cartucho de escopeta que se puede usar para todo tipo de escopetas. Se puede fabricar tras comprar el beneficio de la munición.
 shotgunSlug,items,Ammo,EnChanged,Shotgun Slug (Ammo),Balle pour fusil à pompe,Flintenlaufgeschosse (Mun),,Perdigón de escopeta
-shotgunSlugDesc,items,Ammo,KgNone,"Can be used with long shotguns to do more damage. Hold reload to use alternate ammo.\n[008000][ Crafted in Ammo Workstation. ][-]",À utiliser avec les fusils à pompe longs pour faire plus de dégâts. Lisez le schéma pour pouvoir en fabriquer. Maintenez le bouton de rechargement enfoncé pour utiliser un autre type de munition.,"Können mit Schrotflinten mit langem Lauf verwendet werden, um mehr Schaden zu verursachen. Können gefertigt werden, wenn der entsprechende Bauplan gelesen wurde. Nachladen gedrückt halten, um zwischen Munitionsarten zu wechseln.",,Se puede usar con escopetas largas para hacer más daño. Se puede fabricar tras leer el esquema. Mantén presionado recargar para usar munición alternativa.
+shotgunSlugDesc,items,Ammo,KgNone,"Can be used with long shotguns to do more damage. Hold reload to use alternate ammo.\n[008000][ Crafted in Ammo Workstation with Calipers. ][-]",À utiliser avec les fusils à pompe longs pour faire plus de dégâts. Lisez le schéma pour pouvoir en fabriquer. Maintenez le bouton de rechargement enfoncé pour utiliser un autre type de munition.,"Können mit Schrotflinten mit langem Lauf verwendet werden, um mehr Schaden zu verursachen. Können gefertigt werden, wenn der entsprechende Bauplan gelesen wurde. Nachladen gedrückt halten, um zwischen Munitionsarten zu wechseln.",,Se puede usar con escopetas largas para hacer más daño. Se puede fabricar tras leer el esquema. Mantén presionado recargar para usar munición alternativa.
 steelArrow,items,Ammo,EnChanged,Steel Arrow (Ammo),Flèche en acier,Stahlpfeil (Mun),,Flecha de acero
 steelArrowDesc,items,Ammo,KgNone,"A steel arrow does more damage than the basic or iron arrow. Hold reload to use alternate ammo.\n[008000][ Crafted in Player Inventory. ][-]",Une flèche en acier fait plus de dégâts qu'une flèche de base ou en fer. Maintenez le bouton de rechargement enfoncé pour utiliser un autre type de munition.,"Ein Stahlpfeil verursacht mehr Schaden als gewöhnliche und Eisenpfeile. Nachladen gedrückt halten, um zwischen Munitionsarten zu wechseln.",,Una flecha de acero hace más daño que la flecha básica o la de hierro. Mantén presionado recargar para usar munición alternativa.
 steelCrossbowBolt,items,Ammo,EnChanged,Steel Crossbow Bolt (Ammo),Carreau d'arbalète en acier,Armbrust-Stahlbolzen (Mun),,Saeta de acero para ballesta
@@ -1173,8 +1173,8 @@ augerSchematic,items,Book,KgNone,Auger Schematic,Schéma de foreuse,Bauplan – 
 augerSchematicDesc,items,Book,KgNone,Learn how to repair and assemble augers by reading this schematic.,Apprenez à assembler et réparer les foreuses en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Erdbohrer zusammengesetzt und repariert werden.",,Lee este esquema para aprender a reparar y armar taladros.
 chainsawSchematic,items,Book,KgNone,Chainsaw Schematic,Schéma de tronçonneuse,Bauplan – Kettensäge,,Esquema de motosierra
 chainsawSchematicDesc,items,Book,KgNone,Learn how to assemble and repair chainsaws by reading this schematic.,Apprenez à assembler et réparer les tronçonneuses en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Kettensägen zusammengesetzt und repariert werden.",,Lee este esquema para aprender a armar y reparar motosierras.
-clawHammerSchematic,items,Book,KgNone,Claw Hammer Schematic,Schéma d'arrache-clou,Bauplan – Klauenhammer,,Esquema de martillo de orejas
-clawHammerSchematicDesc,items,Book,KgNone,Learn how to craft a claw hammer by reading this schematic.,Apprenez à fabriquer un arrache-clou en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Klauenhämmer gefertigt werden.",,Lee este esquema para aprender a fabricar un martillo de orejas.
+clawHammerSchematic,items,Book,KgNone,Iron Claw Hammer Schematic,Schéma d'arrache-clou,Bauplan – Klauenhammer,,Esquema de martillo de orejas
+clawHammerSchematicDesc,items,Book,KgNone,Learn how to craft a iron claw hammer by reading this schematic.,Apprenez à fabriquer un arrache-clou en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Klauenhämmer gefertigt werden.",,Lee este esquema para aprender a fabricar un martillo de orejas.
 clubSpikedSchematic,items,Book,KgNone,Spiked Club Schematic,Schéma de massue à pointes,Bauplan – Nagelkeule,,Esquema del lucero del alba
 clubSpikedSchematicDesc,items,Book,KgNone,Learn how to make a spiked club by reading this schematic.,Apprenez à fabriquer une massue à pointes en lisant ce schéma.,"In diesem Bauplan erfährst du, wie Nagelkeulen gefertigt werden.",,Lee este esquema para aprender a elaborar un lucero del alba.
 crossbowSchematic,items,Book,KgNone,Crossbow Schematic,Schéma d'arbalète,Bauplan – Armbrust,,Esquema de ballesta
@@ -1765,8 +1765,8 @@ auger,items,Tool,KgNone,Auger,Foreuse,Erdbohrer,,Taladro
 augerDesc,items,Tool,KgNone,"Rock out with your auger out and be the envy of every miner when they see you sporting this sexy gas-powered auger.\n[008000][ Crafted in Assembly. ][-]",Suscitez un désir profond chez tous les mineurs que vous croisez en arborant cette foreuse aguichante fonctionnant à l'essence.,"Bohre dich mit diesem hübschen, benzinbetriebenen Bohrer durch den Stein und lass jeden Bergarbeiter grün vor Neid werden.",,Sé la envidia de todos los mineros cuando te vean rockeando con tu alucinante taladro a gas.
 chainsaw,items,Tool,KgNone,Chainsaw,Tronçonneuse,Kettensäge,,Motosierra
 chainsawDesc,items,Tool,KgNone,"Chop down the biggest trees or zombies faster than Paul Bunyan with this great chainsaw that uses gasoline for fuel.\n[008000][ Crafted in Assembly. ][-]",Abattez les plus gros arbres et découpez du zombie plus vite que votre ombre avec cette merveilleuse tronçonneuse qui consomme du carburant.,Fälle mit dieser benzinbetriebenen Kettensäge die größten Bäume oder Zombies schneller als Paul Bunyan.,,Tala los árboles más grandes y elimina zombis más rápido que Paul Bunyan con esta magnífica motosierra que usa gasolina como combustible.
-clawHammer,items,Tool,KgNone,Claw Hammer,Arrache-clou,Klauenhammer,,Martillo de orejas
-clawHammerDesc,items,Tool,KgNone,"The claw hammer is great for repairing and upgrading base walls and not bad as a weapon.\n[008000][ Crafted in Workbench. ][-]","Génial pour réparer et améliorer les murs de base, l'arrache-clou est également pas mal en tant qu'arme.","Der Klauenhammer eignet sich prima dazu, die Mauern der Basis zu reparieren und aufzuwerten. Er stellt auch eine ziemlich gute Waffe dar.",,El martillo de orejas es genial para reparar y mejorar las paredes de la base. También sirve como arma.
+clawHammer,items,Tool,KgNone,Iron Claw Hammer,Arrache-clou,Klauenhammer,,Martillo de orejas
+clawHammerDesc,items,Tool,KgNone,"The iron claw hammer is great for repairing and upgrading base walls and not bad as a weapon.\n[008000][ Crafted in Workbench. ][-]","Génial pour réparer et améliorer les murs de base, l'arrache-clou est également pas mal en tant qu'arme.","Der Klauenhammer eignet sich prima dazu, die Mauern der Basis zu reparieren und aufzuwerten. Er stellt auch eine ziemlich gute Waffe dar.",,El martillo de orejas es genial para reparar y mejorar las paredes de la base. También sirve como arma.
 fireaxeIron,items,Tool,KgNone,Iron Fireaxe,Hache de pompier en fer,Eiserne Feueraxt,,Hacha de bombero de hierro
 fireaxeIronDesc,items,Tool,KgNone,"The fireaxe is good for harvesting wood and has a better chance to dismember than most weapons.\n[008000][ Crafted in Player Inventory. ][-]","Pratique pour couper du bois, la hache de pompier est également l'arme qui a le plus de chance de démembrer un adversaire.","Die Feueraxt eignet sich gut dazu, Holz zu fällen. Sie hat zudem eine erhöhte Chance, Gegner zu zergliedern.",,El hacha de bombero es buena para recolectar madera y tiene más posibilidades de desmembrar que la mayoría de armas.
 fireaxeSteel,items,Tool,KgNone,Steel Fireaxe,Hache de pompier en acier,Stählerne Feueraxt,,Hacha de bombero de acero
@@ -4937,7 +4937,7 @@ Remington8_ReceiverDesc,items,Item,KgNone,"Gun Part for Remington 8 Rifle.  Reci
 Remington8_Parts,items,Item,KgNone,Remington 8 Parts,Remington 8 Pièces,Remington 8 Teile,,Remington 8 Piezas
 Remington8_PartsDesc,items,Item,KgNone,"Gun Part for Remington 8 Rifle.  Recipe Exclusive to The Marksman Class.\n[008000][ Crafted in Gun Smithing Workstation. ][-]",Gun partie pour Remington Rifle 8,Gewehr-Teil für Remington 8 Gewehr,,Parte de la pistola Remington 8 Rifle
 32mmBullet,items,Item,KgNone,.32mm Bullet,Bullet 32mm,32mm Kugel,,Bullet de 32mm
-32mmBulletDesc,items,Item,KgNone,"Ammunition for Remington 8 Rifle.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour Remington 8 Rifle,Munition für Remington 8 Gewehr,,Munición para Remington 8 Rifle
+32mmBulletDesc,items,Item,KgNone,"Ammunition for Remington 8 Rifle.\n[008000][ Crafted in Ammo Workstation with Calipers. ][-]",Munitions pour Remington 8 Rifle,Munition für Remington 8 Gewehr,,Munición para Remington 8 Rifle
 Remington8Schematic,items,Item,KgNone,Remington 8 Schematic,Remington 8 Schématique,Remington 8 Schematische,,Remington 8 Esquema
 Remington8SchematicDesc,items,Item,KgNone,Learn how to assemble and repair a Remington 8 Rifle.  Marksman Class Exclusive.,Apprenez comment assembler et réparer un fusil Remington 8,"Erfahren Sie, wie zu montieren und eine Remington 8 Gewehr reparieren",,Aprenda cómo ensamblar y reparar un Remington 8 Rifle
 32mmBulletSchematic,items,Item,KgNone,.32mm Bullet Schematic,32mm Bullet Schématique,32mm Kugel Schematic,,32mm Bullet Esquema
@@ -4955,7 +4955,7 @@ DesertEagle_GripDesc,items,Item,KgNone,"Gun Part for Desert Eagle Pistol.  Recip
 DesertEagleSchematic,items,Item,KgNone,Desert Eagle Schematic,Desert Eagle Schématique,Desert Eagle Schema,,Desert Eagle Esquema
 DesertEagleSchematicDesc,items,Item,KgNone,Learn how to assemble and repair a Desert Eagle Pistol.  Marksman Class Exclusive.,Apprenez à assembler et à réparer un pistolet Desert Eagle,"Erfahren Sie, wie eine Wüste Eagle Pistol zusammenzubauen und zu reparieren",,Aprenda cómo ensamblar y reparar una pistola de Eagle del desierto
 44HollowPointMagBullet,items,Item,KgNone,.44 Hollow Point Mag Bullet,.44 Hollow Point Mag Bullet,.44 Hollow Point Mag Einschuss,,Bala .44 Hollow Point Mag
-44HollowPointMagBulletDesc,items,Item,KgNone,"Ammunition for Desert Eagle Pistol.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour Desert Eagle Pistol,Munition für Desert Eagle Pistole,,Munición para Desert Eagle Pistol
+44HollowPointMagBulletDesc,items,Item,KgNone,"Ammunition for Desert Eagle Pistol.\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",Munitions pour Desert Eagle Pistol,Munition für Desert Eagle Pistole,,Munición para Desert Eagle Pistol
 44HollowPointMagBulletSchematics,items,Item,KgNone,.44 Hollow Point Mag Bullet Schematic,.44 Hollow Point Mag Bullet Schématique,.44 Hollow Point Mag Einschuss Schematic,,.44 Hollow Point Mag Bullet Esquemático
 HollowPointBulletTip,items,Item,KgNone,Hollow Point Bullet Tip,Pointe à pointe creuse,Hohlkugelschreiber,Punta de punta hueca punta,
 HollowPointBulletTipDesc,items,Item,KgNone,Used to make Hollow Point Ammunition\n [ Crafted in Forge with a Tool & Die Set. ],Utilisé pour fabriquer des munitions Hollow Point,Zur Herstellung von Hollow Point Munition,,Se utiliza para fabricar municiones de punto hueco
@@ -4973,9 +4973,9 @@ FAMAS_ReceiverDesc,items,Item,KgNone,"Gun Part for FAMAS Assault Rifle.  Recipe 
 FAMASSchematics,items,Item,KgNone,FAMAS Schematic,Schématique FAMAS,FAMAS Schema,,Esquema FAMAS
 FAMASSchematicsDesc,items,Item,KgNone,Learn how to assemble and repair a FAMAS Assault Rifle.  Marksman Class Exclusive,Apprenez comment assembler et réparer un fusil d'assaut FAMAS,Erlernen Sie wie man ein FAMAS Angriffsgewehr zusammenbauen und reparieren kann,,Aprenda cómo ensamblar y reparar un rifle de asalto FAMAS
 556mmNATOBullet,items,Item,KgNone,556mm NATO Bullet,Bullet 556mm OTAN,556mm NATO Gewehrkugel,,Bullet 556mm OTAN
-556mmNATOBulletDesc,items,Item,KgNone,"Ammunition for FAMAS Rifle.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour FAMAS Rifle,Munition für FAMAS Gewehr,,Munición para FAMAS Rifle
+556mmNATOBulletDesc,items,Item,KgNone,"Ammunition for FAMAS Rifle.\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",Munitions pour FAMAS Rifle,Munition für FAMAS Gewehr,,Munición para FAMAS Rifle
 556mmBullet,items,Item,KgNone,5.56mm Bullet,556mm Bullet,556 mm Kugel,,556 mm Bullet
-556mmBulletDesc,items,Item,KgNone,"Ammunition for FAMAS Rifle.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour FAMAS Rifle,Munition für FAMAS Gewehr,,Munición para FAMAS Rifle
+556mmBulletDesc,items,Item,KgNone,"Ammunition for FAMAS Rifle.\n[008000][ Crafted in Ammo Workstation with Calipers. ][-]",Munitions pour FAMAS Rifle,Munition für FAMAS Gewehr,,Munición para FAMAS Rifle
 556mmBulletSchematic,items,Item,KgNone,5.56mm Bullet Schematic,556mm Bullet Schématique,556mm Kugelschreiber,,556mm Bullet Esquema
 556mmBulletSchematicDesc,items,Item,KgNone,Learn how to make 5.56mm Bullets,Apprenez à fabriquer des puces de 556mm,Erfahren Sie wie 556mm Bullets zu machen,,Aprende a hacer 556mm balas
 556mmNATOBulletSchematic,items,Item,KgNone,556mm NATO Bullet Schematic,Schéma du Bullet de l'OTAN de 556mm,556mm NATO Kugelschema,,556mm NATO Bullet Esquema
@@ -4993,15 +4993,15 @@ M25SniperRifle_PartsDesc,items,Item,KgNone,"Gun Part for M25 Sniper Rifle.  Reci
 M25SniperRifleSchematic,items,Item,KgNone,M25 Sniper Rifle Schematic,M25 Sniper Rifle Schématique,M25 Scharfschützengewehr Schema,,M25 Sniper Rifle Esquema
 M25SniperRifleSchematicDesc,items,Item,KgNone,Learn how to assemble and repair a M25 Sniper Rifle.  Marksman Class Exclusive.,Apprenez comment assembler et réparer un fusil de sniper M25,Erlernen Sie wie man ein M25 Scharfschütze-Gewehr zusammenbauen und reparieren kann,,Aprenda a montar y reparar un rifle de francotirador M25
 762mmHollowPointBullet,items,Item,KgNone,7.62mm Hollow Point Bullet,762mm Hollow Point Bullet,762 mm Hohlkugellager,,762mm Hollow Point Bullet
-762mmHollowPointBulletDesc,items,Item,KgNone,"Ammunition for M25 Sniper Rifle.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour M25 Sniper Rifle,Munition für M25 Scharfschützengewehr,,Munición para rifle de francotirador M25
+762mmHollowPointBulletDesc,items,Item,KgNone,"Ammunition for M25 Sniper Rifle.\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",Munitions pour M25 Sniper Rifle,Munition für M25 Scharfschützengewehr,,Munición para rifle de francotirador M25
 762mmHollowPointBulletSchematic,items,Item,KgNone,7.62mm Hollow Point Bullet Schematic,762 mm Hollow Point Bullet Esquema,762 mm Hohlkugelschema,,762 mm Hollow Point Bullet Esquema
 762mmHollowPointBulletSchematicDesc,items,Item,KgNone,Learn how to make 7.62mm Hollow Point Bullets,Apprenez à fabriquer des puces à pointe creuse de 762 mm,Erfahren Sie wie 762 mm Hollow Point Bullets,,Aprenda a hacer 762 mm Hollow Point Bullets
 IncendiaryShotgunSlug,items,Item,KgNone,Incendiary Shotgun Slug,,,,
-IncendiaryShotgunSlugDesc,items,Item,"Incendiary Ammunition for Beretta Shotgun.\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions Incendiaires pour Beretta Shotgun,Brandmunition für Beretta Schrotflinte,,Munición Incendiaria para Escopeta Beretta
+IncendiaryShotgunSlugDesc,items,Item,"Incendiary Ammunition for Beretta Shotgun.\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",Munitions Incendiaires pour Beretta Shotgun,Brandmunition für Beretta Schrotflinte,,Munición Incendiaria para Escopeta Beretta
 IncendiaryShotgunSlugSchematic,items,Item,KgNone,Incendiary Shotgun Slug Schematic,,,,
 IncendiaryShotgunSlugSchematicDesc,items,Item,KgNone,Learn how to make Incendiary Shotgun Slugs,Apprenez à fabriquer les Slugs Incendiary Shotgun,Erlernen Sie wie man Brennende Schrotflinte-Schnecken bildet,,Aprende a hacer Incendiary Shotgun Slugs
 9mmHollowPointBullet,items,Item,KgNone,9mm Hollow Point Bullet,9mm Hollow Point Bullet,9mm Hohlpunkt Kugel,,9mm Hollow Point Bullet
-9mmHollowPointBulletDesc,items,Item,KgNone,"Ammunition for Pistol\n[008000][ Crafted in Ammo Workstation. ][-]",Munitions pour Pistolet,Munition für Pistole,,Munición para pistola
+9mmHollowPointBulletDesc,items,Item,KgNone,"Ammunition for Pistol\n[008000][ Crafted in Ammo Workstation with Tool and Die Set. ][-]",Munitions pour Pistolet,Munition für Pistole,,Munición para pistola
 9mmHollowPointBulletSchematic,items,Item,KgNone,9mm Hollow Point Bullet Schematic,9mm Hollow Point Bullet Schéma,9mm Hollow Point Kugelschema,,9mm Hollow Point Bullet Esquema
 9mmHollowPointBulletSchematicDesc,items,Item,KgNone,Learn how to make 9mm Hollow Point Bullets,Apprenez à fabriquer 9mm Hollow Point Bullets,"Erfahren Sie, wie 9mm Hollow Point Bullets",,Aprenda a hacer 9mm Hollow Point Bullets
 BarettaShotgun,items,Item,KgNone,Beretta Shotgun,Beretta fusil de chasse,Beretta Schrotflinte,,Escopeta Beretta
@@ -5276,6 +5276,7 @@ MagazineTailoring,items,Item,KgNone,Magazine - Tailoring,,,,
 MagazineLeatherworking,items,Item,KgNone,Magazine - Leatherworking,,,,
 MagazineArmorSmithing,items,Item,KgNone,Magazine - Armor Smithing,,,,
 MagazineHeavyArmorSmithing,items,Item,KgNone,Magazine - Heavy Armor Smithing,,,,
+MagazineMechanicTools,items,Item,KgNone,Magazine - Mechanic Tools,,,,
 QuestNoteDesc,items,Item,KgNone,A Quest Note,Une Quête Note,Eine Quest-Anmerkung,,Una nota de misión
 TreasureQuestNoteDesc,items,Item,KgNone,A Treasure Map,Carte du Trésor,Eine Schatzkarte,,Un mapa del tesoro
 Quest_DwallsTask,items,Item,KgNone,Quest Note - Dwalls Task,,,,
@@ -6077,7 +6078,7 @@ nailgunSchematicPerk,progression,Skill,KgNone,Nailgun Schematic,,,,
 flamingArrowSchematicPerk,progression,Skill,KgNone,Flaming Arrow Schematic,,,,
 explodingCrossbowBoltSchematicPerk,progression,Skill,KgNone,Exploding Crossbow Bolt Schematic,,,,
 wrenchSchematicPerk,progression,Skill,KgNone,Iron Wrench Schematic,,,,
-clawHammerSchematicPerk,progression,Skill,KgNone,Claw Hammer Schematic,,,,
+clawHammerSchematicPerk,progression,Skill,KgNone,Iron Claw Hammer Schematic,,,,
 gasCanSchematicPerk,progression,Skill,KgNone,Gas Can Schematic,,,,
 augerSchematicPerk,progression,Skill,KgNone,Auger Schematic,,,,
 chainsawSchematicPerk,progression,Skill,KgNone,Chainsaw Schematic,,,,
@@ -7151,9 +7152,9 @@ rivetDesc,items,Item,KgNone,"These are required to craft Iron and Rivets.\n[0080
 portlandCement,items,Item,KgNone,Portland Cement,,,,
 portlandCementDesc,items,Item,KgNone,"Portland Cement is a key ingredient for making Portland Concrete Mix.  Recipe Exclusive to The Builder Class.\n[008000][ Crafted in Forge. ][-]",,,,
 portlandConcreteMix,items,Item,KgNone,Portland Concrete Mix,,,,
-portlandConcreteMixDesc,items,Item,KgNone,"Portland Concrete Mix is used to upgrade Concrete Blocks to Reinforced Concrete Blocks.  Recipe Exclusive to The Builder Class.\n[008000][ Crafted in Cement Mixer. ][-]",,,,
+portlandConcreteMixDesc,items,Item,KgNone,"Portland Concrete Mix is used to upgrade Concrete Blocks to Reinforced Concrete Blocks.  Requires HD Nailgun to upgrade with.  Recipe Exclusive to The Builder Class.\n[008000][ Crafted in Cement Mixer. ][-]",,,,
 portlandConcreteMixing,progression,Skill,KgNone,Portland Concrete Mixing,,,,
-portlandConcreteMixingDesc,progression,Skill,KgNone,"Unlocks the ability to make portland cement. To make portland concrete mix you also need a cement mixer.",,,,
+portlandConcreteMixingDesc,progression,Skill,KgNone,"Unlocks the ability to make portland cement. To make portland concrete mix you also need a cement mixer.  Requires HD Nailgun to Upgrade with.",,,,
 cobblestoneCrafting,progression,Skill,KgNone,Cobblestone Crafting,,,,
 cobblestoneCraftingDesc,progression,Skill,KgNone,"Learn how to craft Cobblestones.  They are required to upgrade Flagstone to Cobblestone Block.",,,,
 reinforcedWoodCrafting,progression,Skill,KgNone,Reinforced Wood Crafting,,,,
@@ -7516,6 +7517,67 @@ zombieFrigidHunter,entityclasses,Entity,KgNone,Zombie Frigid Hunter,,,,
 zombieFrostbittenWorker,entityclasses,Entity,KgNone,Zombie Frostbitten Worker,,,,
 animalFeralRadiatedZombieDog,entityclasses,Entity,KgNone,Feral Radiated Zombie Dog,,,,
 sausageAndEggs,items,Item,KgNone,Sausage and Eggs,,,,
-sausageAndEggsDesc,items,Item,KgNone,"A good replacement for when you don't have enough white meat to make bacon",,,,
+sausageAndEggsDesc,items,Item,KgNone,"A good replacement for when you don't have enough white meat to make bacon.\n[008000][ Crafted in Campfire with Cooking Pot and Player Oven with Frying Pan. ][-]",,,,
 drawingBlood,progression,Skill,KgNone,Drawing Blood (Class Only),,,,
 drawingBloodDesc,progression,Skill,KgNone,"Learn how to craft blood draw kits.  Survivalist Class Exclusive",,,,
+unloadgun1,items,Item,KgNone,<Unload>,,,,
+unloadgun2,items,Item,KgNone,<Unload>,,,,
+unloadgun3,items,Item,KgNone,<Unload>,,,,
+zombieWightHorde,entityclasses,Entity,KgNone,Zombie Wight (H),,,,
+zombieWightRadiatedHorde,entityclasses,Entity,KgNone,Zombie Wight Radiated (H),,,,
+zombieBoeHorde,entityclasses,Entity,KgNone,Zombie Boe (H),,,,
+zombieBoeRadiatedHorde,entityclasses,Entity,KgNone,Zombie Boe Radiated (H),,,,
+zombieFootballPlayerHorde,entityclasses,Entity,KgNone,Zombie Football Player (H),,,,
+zombieFemaleFatHorde,entityclasses,Entity,KgNone,Zombie Female Fat (H),,,,
+zombieFemaleFatRadiatedHorde,entityclasses,Entity,KgNone,Zombie Female Fat Radiated (H),,,,
+zombieJoeHorde,entityclasses,Entity,KgNone,Zombie Joe (H),,,,
+zombieJoeRadiatedHorde,entityclasses,Entity,KgNone,Zombie Joe Radiated (H),,,,
+zombieMoeHorde,entityclasses,Entity,KgNone,Zombie Moe (H),,,,
+zombieMoeRadiatedHorde,entityclasses,Entity,KgNone,Zombie Moe Radiated (H),,,,
+zombieArleneHorde,entityclasses,Entity,KgNone,Zombie Arlene (H),,,,
+zombieArleneRadiatedHorde,entityclasses,Entity,KgNone,Zombie Arlene Radiated (H),,,,
+zombieScreamerHorde,entityclasses,Entity,KgNone,Zombie Screamer (H),,,,
+zombieScreamerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Screamer Radiated (H),,,,
+zombieDarleneHorde,entityclasses,Entity,KgNone,Zombie Darlene (H),,,,
+zombieDarleneRadiatedHorde,entityclasses,Entity,KgNone,Zombie Darlene (H),,,,
+zombieMarleneHorde,entityclasses,Entity,KgNone,Zombie Marlene (H),,,,
+zombieMarleneRadiatedHorde,entityclasses,Entity,KgNone,Zombie Marlene Radiated (H),,,,
+zombieYoHorde,entityclasses,Entity,KgNone,Zombie Yo (H),,,,
+zombieYoRadiatedHorde,entityclasses,Entity,KgNone,Zombie Yo Radiated (H),,,,
+zombieSteveHorde,entityclasses,Entity,KgNone,Zombie Steve (H),,,,
+zombieSteveRadiatedHorde,entityclasses,Entity,KgNone,Zombie Steve Radiated (H),,,,
+zombieBusinessManHorde,entityclasses,Entity,KgNone,Zombie Business Man (H),,,,
+zombieBusinessManRadiatedHorde,entityclasses,Entity,KgNone,Zombie Business Man Radiated (H),,,,
+zombieSnowHorde,entityclasses,Entity,KgNone,Zombie Snow (H),,,,
+zombieSnowRadiatedHorde,entityclasses,Entity,KgNone,Zombie Snow Radiated (H),,,,
+zombieSpiderHorde,entityclasses,Entity,KgNone,Zombie Spider (H),,,,
+zombieSpiderRadiatedHorde,entityclasses,Entity,KgNone,Zombie Spider Radiated (H),,,,
+zombieBurntHorde,entityclasses,Entity,KgNone,Zombie Burnt (H),,,,
+zombieBurntRadiatedHorde,entityclasses,Entity,KgNone,Zombie Burnt Radiated (H),,,,
+zombieNurseHorde,entityclasses,Entity,KgNone,Zombie Nurse (H),,,,
+zombieNurseRadiatedHorde,entityclasses,Entity,KgNone,Zombie Nurse Radiated (H),,,,
+zombieFatHawaiianHorde,entityclasses,Entity,KgNone,Zombie Fat Hawaiian (H),,,,
+zombieFatHawaiianRadiatedHorde,entityclasses,Entity,KgNone,Zombie Fat Hawaiian Radiated (H),,,,
+zombieFatCopHorde,entityclasses,Entity,KgNone,Zombie Fat Cop (H),,,,
+zombieFatCopRadiatedHorde,entityclasses,Entity,KgNone,Zombie Fat Cop Radiated (H),,,,
+zombieMaleHazmatHorde,entityclasses,Entity,KgNone,Zombie Hazmat (H),,,,
+zombieMaleHazmatRadiatedHorde,entityclasses,Entity,KgNone,Zombie Hazmat Radiated (H),,,,
+zombieUtilityWorkerHorde,entityclasses,Entity,KgNone,Zombie Utility Worker (H),,,,
+zombieUtilityWorkerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Utility Worker Radiated (H),,,,
+zombieSoldierHorde,entityclasses,Entity,KgNone,Zombie Soldier (H),,,,
+zombieSoldierRadiatedHorde,entityclasses,Entity,KgNone,Zombie Soldier Radiated (H),,,,
+zombieSkateboarderHorde,entityclasses,Entity,KgNone,Zombie Punk (H),,,,
+zombieSkateboarderRadiatedHorde,entityclasses,Entity,KgNone,Zombie Punk Radiated (H),,,,
+zombieCheerleaderHorde,entityclasses,Entity,KgNone,Zombie Cheerleader (H),,,,
+zombieCheerleaderRadiatedHorde,entityclasses,Entity,KgNone,Zombie Cheerleader Radiated (H),,,,
+zombieOldTimerHorde,entityclasses,Entity,KgNone,Zombie Cowboy (H),,,,
+zombieOldTimerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Cowboy Radiated (H),,,,
+zombieBikerHorde,entityclasses,Entity,KgNone,Zombie Biker (H),,,,
+zombieBikerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Biker Radiated (H),,,,
+zombieFarmerHorde,entityclasses,Entity,KgNone,Zombie Farmer (H),,,,
+zombieFarmerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Farmer Radiated (H)
+zombieStripperHorde,entityclasses,Entity,KgNone,Zombie Stripper (H),,,,
+zombieStripperRadiatedHorde,entityclasses,Entity,KgNone,Zombie Stripper Radiated (H),,,,
+
+
+
