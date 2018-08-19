@@ -1393,7 +1393,7 @@ chrysanthemum,items,Farming,KgNone,Chrysanthemum,Chrysanthème,Chrysantheme,,Cri
 chrysanthemumDesc,items,Farming,KgNone,Chrysanthemum can be used to brew red tea.,Les chrysanthèmes servent à préparer du thé rouge.,"Chrysantheme kann benutzt werden, um roten Tee zu brauen.",,Se pueden usar los crisantemos para hacer té rojo.
 coffeeBeans,items,Farming,KgNone,Coffee Beans,Grains de café,Kaffeebohnen,,Granos de café
 corn,items,Farming,KgNone,Ear of Corn,Épi de maïs,Maiskolben,,Mazorca de maíz
-cornDesc,items,Farming,KgNone,"An ear of corn can be eaten or used to make corn seed, corn meal, corn on the cob, stews and more.","Un épi de maïs peut être consommé ou utilisé pour obtenir des graines de maïs, faire de la farine de maïs, un épi de maïs doux, des ragoûts et bien plus.","Maiskolben können gegessen werden. Durch sie kann man auch Maissamen, Maismehl, gekochte Maiskolben und Eintöpfe erhalten.",,"La mazorca de maíz se puede comer o usarse para obtener semillas de maíz, hacer harina, obtener mazorcas, estofarlo, etc."
+cornDesc,items,Farming,KgNone,"An ear of corn can be used to make corn seed, corn meal, corn on the cob, stews and to bait rabbit traps.","Un épi de maïs peut être consommé ou utilisé pour obtenir des graines de maïs, faire de la farine de maïs, un épi de maïs doux, des ragoûts et bien plus.","Maiskolben können gegessen werden. Durch sie kann man auch Maissamen, Maismehl, gekochte Maiskolben und Eintöpfe erhalten.",,"La mazorca de maíz se puede comer o usarse para obtener semillas de maíz, hacer harina, obtener mazorcas, estofarlo, etc."
 cornSeed,items,Farming,KgNone,Corn Seed,Graine de maïs,Maissamen,,Semilla de maíz
 cottonSeed,items,Farming,KgNone,Cotton Seed,Graine de coton,Baumwollsamen,,Semilla de algodón
 goldenrodSeed,items,Farming,KgNone,Goldenrod Seed,Graine de gerbe d'or,Goldrutensamen,,Semilla de vara de oro
@@ -3898,7 +3898,7 @@ snowBallDesc,items,Item,New,"You know what to do! Turn it into first rate drinki
 snowberryExtract,items,Item,New,Snowberry Extract,,,,
 snowberryExtractDesc,items,Item,New,"Even it's side effects have side effects. May be useful in smaller doses.\n[008000][ Crafted in Chemistry Station. ][-]",,,,
 steelPolish,items,Item,New,Reinforced Steel Upgrade,,,,
-steelPolishDesc,items,Item,New,This is used to further upgrade steel walls and increasing explosion resistence.,,,,
+steelPolishDesc,items,Item,New,"This is used to further upgrade steel walls and increasing explosion resistence.\n[008000][ Crafted in Builders Workbench. ][-]",,,,
 bluePill,items,Medical,New,Blue Pill,,,,
 bluePillDesc,items,Medical,New,"Dev item, used for testing and prefab building",,,,
 redPill,items,Medical,New,Red Pill,,,,
@@ -5179,7 +5179,7 @@ TailoringCowboyHatDesc,items,Item,KgNone,Learn how to craft Cowboy Hats,Apprenez
 TailoringPufferCoat,items,Item,KgNone,Puffer Coat Tailoring Schematic,,,,
 TailoringPufferCoatDesc,items,Item,KgNone,Learn how to craft Puffer Coats,Apprenez à fabriquer Puffer Coats,Erlernen Sie wie man Puffer-Mantel herstellt,,Aprenda cómo hacer abrigos de abrigos
 TailoringLeatherDuster,items,Item,KgNone,Leather Duster Tailoring Schematic,,,,
-TailoringLeatherDusterDesc,items,Item,KgNone,"Learn how to craft Leather Duster Clothing.\n[008000][ Crafted in Player Inventory. ][-]",Apprenez à fabriquer des vêtements de plumeau de cuir,Erfahren Sie wie man Leder Duster Kleidung,,Aprenda cómo confeccionar la ropa del plumero del cuero
+TailoringLeatherDusterDesc,items,Item,KgNone,"Learn how to craft Leather Duster Clothing.",Apprenez à fabriquer des vêtements de plumeau de cuir,Erfahren Sie wie man Leder Duster Kleidung,,Aprenda cómo confeccionar la ropa del plumero del cuero
 TailoringBallCap,items,Item,KgNone,Ball Cap Tailoring Schematic,,,,
 TailoringBallCapDesc,items,Item,KgNone,Learn how to craft Ball Cap Hats,Apprenez à fabriquer des casquettes de baseball,Erlernen Sie wie man Ball-Kappen-Hüte herstellt,,Aprenda cómo confeccionar la bola Gorra
 HouseholdChemicals,items,Item,KgNone,Household Chemicals,,,,
@@ -6101,7 +6101,7 @@ ironLegArmorSchematicPerk,progression,Skill,KgNone,Iron Leg Armor Schematic,,,,
 ironBootsSchematicPerk,progression,Skill,KgNone,Iron Boots Schematic,,,,
 ironGlovesSchematicPerk,progression,Skill,KgNone,Iron Gloves Schematic,,,,
 32mmBulletSchematicPerk,progression,Skill,KgNone,.32mm Bullet Schematic,,,,
-44HollowPointMagBulletSchematicsPerk,progression,Skill,KgNone,44 Hollow Point Mag Bullet Schematic,,,,
+44HollowPointMagBulletSchematicsPerk,progression,Skill,KgNone,.44 Hollow Point Mag Bullet Schematic,,,,
 HollowPointAmmunitionBookPerk,progression,Skill,KgNone,Hollow Point Ammunition Book,,,,
 556mmBulletSchematicPerk,progression,Skill,KgNone,5.56mm Bullet Schematic,,,,
 556mmNATOBulletSchematicPerk,progression,Skill,KgNone,556mm NATO Bullet Schematic,,,,
@@ -6622,8 +6622,8 @@ remington8RecipePerk,progression,Skill,KgNone,Remington8 Recipe (Class Only),,,,
 remington8PartsRecipePerk,progression,Skill,KgNone,Remington8 Parts Recipe (Class Only),,,,
 remington8AttachmentsRecipes,progression,Skill,KgNone,Remington8 Attachments Recipes (Class Only),,,,
 desertEagleRecipePerk,progression,Skill,KgNone,Desert Eagle Recipe (Class Only),,,,
-desertEaglePartsRecipePerk,progression,Skill,Desert Eagle Parts Recipe (Class Only),,,,
-44MagnumPartsRecipePerk,progression,Skill,KgNone,44 Magnum Parts Recipe (Class Only),,,,
+desertEaglePartsRecipePerk,progression,Skill,KgNone,Desert Eagle Parts Recipe (Class Only),,,,
+44MagnumPartsRecipePerk,progression,Skill,KgNone,.44 Magnum Parts Recipe (Class Only),,,,
 MP5PartsRecipePerk,progression,Skill,KgNone,MP5 Parts Recipe (Class Only),,,,
 sniperRiflePartsRecipePerk,progression,Skill,KgNone,Sniper Rifle Parts Recipe (Class Only),,,,
 sniperRifleAttachmentsRecipesPerk,progression,Skill,KgNone,Sniper Rifle Attachments Recipes (Class Only),,,,
@@ -7031,7 +7031,7 @@ craftSkillIronTools,progression,Skill,KgNone,Iron Tool Crafting,,,,
 craftSkillIronToolsDesc,progression,Skill,KgNone,"Purchase to Increase your Crafting Skill, Craft Time, Repair Time/Quality and Repair Quality Loss for Iron Tools.\nIron Tools can be purchased at Player Level 50",,,,
 craftSkillSteelTools,progression,Skill,KgNone,Steel Tool Crafting,,,,
 craftSkillSteelToolsDesc,progression,Skill,KgNone,"Purchase to Increase your Crafting Skill, Craft Time, Repair Time/Quality and Repair Quality Loss for Steel Tools.\nSteel Tools can be purchased at Player Level 100",,,,
-craftSkillTungstenDiamondTools,progression,KgNone,Tungsten/Diamond Tool Crafting,,,,
+craftSkillTungstenDiamondTools,progression,Skill,KgNone,Tungsten/Diamond Tool Crafting,,,,
 craftSkillTungstenDiamondToolsDesc,progression,Skill,KgNone,"Purchase to Increase your Crafting Skill, Craft Time, Repair Time/Quality and Repair Quality Loss for Tungsten and Diamond Tools.\nTungsten Tools can be purchased at Player Level 150, Diamond Tools at 200",,,,
 craftSkillStoneScrapIronToolsBonus,progression,Skill,KgNone,Stone/Scrap Iron Tool Crafting Skill (Tradesman Bonus),,,,
 craftSkillStoneScrapIronToolsBonusDesc,progression,Skill,KgNone,"Stone/Scrap Iron Tool Crafting Bonus Skill for Tradesman Class that will allow you to craft items with quality up to 600, faster item crafting and faster repairs.",,,,
@@ -7236,7 +7236,7 @@ zombieSoldierElectricFeral,entityclasses,Entity,KgNone,Feral Electric Zombie Sol
 classChallenge_pieCrafting,items,Item,KgNone,Class Challenge - Pie Crafting,,,,
 classChallenge_soupBasics,items,Item,KgNone,Class Challenge - Soup Basics,,,,
 classChallenge_chickenSoupMaster,items,Item,KgNone,Class Challenge - Chicken Soup Master,,,,
-classChallenge_beefSoupMaster,items,Item,KgNone,Class Challenge - Beef Soup Master,,,,
+classChallenge_beefSoupMaster,items,Item,KgNone,Class Challenge - Bear Soup Master,,,,
 classChallenge_dinnerMaster,items,Item,KgNone,Class Challenge - Dinner Master,,,,
 crowbarSteelSchematicPerk,progression,Skill,KgNone,Steel Crowbar (Class Only),,,,
 crowbarSteelSchematic,items,Item,KgNone,Steel Crowbar Schematic,,,,
@@ -7578,6 +7578,13 @@ zombieFarmerHorde,entityclasses,Entity,KgNone,Zombie Farmer (H),,,,
 zombieFarmerRadiatedHorde,entityclasses,Entity,KgNone,Zombie Farmer Radiated (H)
 zombieStripperHorde,entityclasses,Entity,KgNone,Zombie Stripper (H),,,,
 zombieStripperRadiatedHorde,entityclasses,Entity,KgNone,Zombie Stripper Radiated (H),,,,
-
+steelPolishSchematic,items,Item,KgNone,Reinforced Steel Upgrade Schematic,,,,
+steelPolishSchematicDesc,items,Item,KgNone,"Learn how to craft Reinforced Steel Upgrade.  Recipe Exclusive to Builder Class.",,,,
+steelPolishSchematicPerk,progression,Skill,KgNone,Reinforced Steel Upgrade Schematic,,,,
+blunderbussDoubleBarrel,items,Item,KgNone,Double Barrel Blunderbuss,,,,
+blunderbussDoubleBarrelDesc,items,Item,KgNone,"Dave's Lover, can often be found in his bed next to his gun cleaning kit. Effective at very close ranges.\n[008000][ Crafted in Player Inventory. ][-]",,,,
+blunderbussDoubleBarrelSchematicPerk,progression,Skill,KgNone,Double Barrel Blunderbuss Schematic,,,,
+blunderbussDoubleBarrelSchematic,items,Item,KgNone,Double Barrel Blunderbuss Schematic,,,,
+blunderbussDoubleBarrelSchematicDesc,items,Item,KgNone,"Learn how to craft Dave's Love..I mean a Double Barrel Blunderbuss",,,,
 
 

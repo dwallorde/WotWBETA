@@ -440,5 +440,6 @@ classtrainingmechanic5,,Quest Info,KgNone,Mechanic Class Part 5 of 5,,,,
 classtrainingmechanic5_subtitle,,Quest Info,KgNone,Mechanic Class 5 of 5,,,,
 classtrainingmechanic5_offer,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
 classtrainingmechanic5_description,,Quest Info,KgNone,"Mechanic Class\n\nExclusive Recipes/Perks:  ECO Minibike and HD Minibike, ECO/HD Engine and ECO/HD Battery Recipes",,,,
-
+requirementGroupMachete,,Requirement Group,KgNone,Holding any Machete,,,,
+requirementGroupMelee,,Requirement Group,KgNone,Holding any Melee Type Weapon,,,,
 
